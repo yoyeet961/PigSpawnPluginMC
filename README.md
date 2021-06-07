@@ -1,0 +1,2 @@
+# PigSpawnPluginMC
+/spawnpig, /food, etc.
